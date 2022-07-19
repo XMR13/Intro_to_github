@@ -1,3 +1,3 @@
 # README
-repository ini akan digunakan untuk mempelajari semua hal mengenai github.
-Kegunaan utamanya adalah untuk meletakkan setiap dokumen yang diperlukan untuk mempelajari github
+repository ini akan digunakan untuk mempelajari semua hal mengenai github
+Setiap dokumen yang berhubungan dengan mempelajaran website github diupload pada repository ini, agar dapat mengatur setiap file dalam satu repo
